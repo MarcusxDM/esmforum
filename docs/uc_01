@@ -1,0 +1,11 @@
+Especificações de Casos de Uso
+
+Votar em Resposta
+Ator: Usuário
+Fluxo normal:
+1 - Autenticar Usuário (sublinhado)
+2 - Aplicação apresenta pergunta com respostas
+3 - Aplicação apresenta a escolha de voto positivo e negativo
+4 - Usuário seleciona seleciona um dos dois
+5 - Aplicação soma ou subtraí um voto de seu total de votos
+6 - Aplicação apresenta o total de votos
