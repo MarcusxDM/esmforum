@@ -1,0 +1,10 @@
+Filtrar por minhas perguntas
+Ator: Usuário
+Fluxo normal:
+1 - Autenticar Usuário (sublinhado)
+2 - Aplicação apresenta a opção de filtro "Minhas Perguntas"
+3 - Usuário seleciona o filtro "Minhas Perguntas"
+4 - Aplicação apresenta apenas as perguntas feitas pelo usuário
+
+Extensões:
+4a - Se o usuário não tiver perguntas, a aplicação apresenta a possibilidade de criar uma nova
